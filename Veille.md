@@ -57,7 +57,6 @@ C'est le modèle le plus utilisé, inspiré du cycle du renseignement. Il compor
 - https://x.com/InfosReseaux
 - https://x.com/bortzmeyer
 - MISC Magazine : https://boutique.ed-diamond.com/
-- LinkedIn
 - Cyber Dico de l'ANSSI
 
 - **Francophones** : Le Monde Informatique, 01net, Numerama, ZDNet, Journal du Net, Frandroid, Korben.
