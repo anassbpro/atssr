@@ -59,18 +59,39 @@ C'est le modèle le plus utilisé, inspiré du cycle du renseignement. Il compor
 - MISC Magazine : https://boutique.ed-diamond.com/
 - Cyber Dico de l'ANSSI
 
-- **Francophones** : Le Monde Informatique, 01net, Numerama, ZDNet, Journal du Net, Frandroid, Korben.
-- **Anglophones** : The Verge, Ars Technica, TechCrunch, Hacker News.
+**Francophones**
+
+- [Le Monde Informatique](https://www.lemondeinformatique.fr)
+- [01net](https://www.01net.com)
+- [Numerama](https://www.numerama.com)
+- [ZDNet France](https://www.zdnet.fr)
+- [Journal du Net](https://www.journaldunet.com)
+- [Frandroid](https://www.frandroid.com)
+- [Korben](https://korben.info)
+
+**Anglophones**
+
+- [The Verge](https://www.theverge.com)
+- [Ars Technica](https://arstechnica.com)
+- [TechCrunch](https://techcrunch.com)
+- [Hacker News](https://news.ycombinator.com)
 
 ### Sources institutionnelles
 
 Très fiables, surtout en sécurité et en réglementation :
 
-- ANSSI, CERT-FR, CNIL, Cybermalveillance.gouv.fr, ENISA.
+- [ANSSI](https://cyber.gouv.fr)
+- [CERT-FR](https://www.cert.ssi.gouv.fr)
+- [CNIL](https://www.cnil.fr)
+- [Cybermalveillance.gouv.fr](https://www.cybermalveillance.gouv.fr)
+- [ENISA](https://www.enisa.europa.eu)
 
 ### Réseaux sociaux
 
-- LinkedIn, X (Twitter), Reddit (r/sysadmin, r/programming…), Mastodon et Discord.
+- [LinkedIn](https://www.linkedin.com)
+- [X (Twitter)](https://x.com)
+- Reddit : [r/sysadmin](https://www.reddit.com/r/sysadmin) et [r/programming](https://www.reddit.com/r/programming)
+- [Discord](https://discord.com)
 
 ### Chaines Youtube
 - Xavki
@@ -82,7 +103,11 @@ Très fiables, surtout en sécurité et en réglementation :
 
 ### Autres sources
 
-- Documentation et blogs officiels des éditeurs (Microsoft, Google, AWS…), GitHub, forums comme Stack Overflow, livres blancs, salons et conférences (VivaTech, Forum InCyber…).
+- Documentation et blogs officiels des éditeurs : [Microsoft Learn](https://learn.microsoft.com), [Google Blog](https://blog.google), [AWS Blog](https://aws.amazon.com/blogs)
+- [GitHub](https://github.com)
+- [Stack Overflow](https://stackoverflow.com)
+- Salons et conférences : [VivaTech](https://vivatechnology.com), [Forum InCyber](https://forum-incyber.com)
+- Livres blancs publiés par les éditeurs et cabinets d'études.
 
 ### Les limites à connaître
 
