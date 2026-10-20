@@ -199,7 +199,7 @@
 
 ---
 
-## 6. Bonus : Alt
+## 6. Alt
 
 | Raccourci | Action |
 |---|---|
