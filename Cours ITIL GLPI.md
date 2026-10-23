@@ -1,4 +1,4 @@
-```markdown
+
 # ITIL
 
 L'ITIL (Information Technology Infrastructure Library), c'est un **référentiel de bonnes pratiques** pour gérer les services informatiques dans une entreprise. Ce n'est ni un logiciel ni une loi : c'est un ensemble de méthodes, créé au départ par le gouvernement britannique dans les années 80, pour que le service informatique fonctionne de façon organisée.
@@ -41,4 +41,4 @@ GLPI est l'outil qui permet d'**appliquer ITIL en pratique**. Il reprend les mê
 ## Exemple concret
 
 Un utilisateur signale que son PC ne démarre plus. Il ouvre un ticket dans GLPI. Le technicien voit dans la fiche du PC qu'il a déjà eu deux pannes ce mois-ci, règle l'incident, puis ouvre un problème pour comprendre la cause. Tout reste enregistré pour la suite.
-```
+
